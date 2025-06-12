@@ -72,6 +72,8 @@ Interactive puzzle game with engaging gameplay
 - [View Project →](https://github.com/SVidu96/puzzle_master)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📖 Daily Gospel Reader
@@ -82,8 +84,7 @@ A spiritual companion app built with TypeScript
 
 </td>
 
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🚂 Train App
@@ -120,9 +121,9 @@ Modern train tracking app with ticket booking features
 
 I'm always interested in connecting with fellow developers and discussing new opportunities!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://svidu96.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://svidu96.dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svidu96)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svidu96+github@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SVidu96)
 
 </div>
