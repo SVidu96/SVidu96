@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm SVidu96
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer;Angular+%7C+.NET+Core+%7C+Ionic;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer;Angular+%7C+.NET+Core+%7C+Ionic" alt="Typing SVG" />
 </div>
 
 <div align="center">
