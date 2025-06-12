@@ -1,24 +1,16 @@
-# Hi there! 👋 I'm SVidu96
+# 🚀 Supun Viduranga
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer;Angular+%7C+.NET+Core+%7C+Ionic" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SVidu96&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SVidu96?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-</div>
+Welcome to my personal portfolio!  
+Explore my work, skills, and the technologies I love.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** who loves crafting digital solutions that make a difference. With expertise in modern web technologies, I enjoy building applications that are both functional and beautiful.
-
-- 🔭 Currently working on exciting web applications with **Angular** and **.NET Core**
-- 🌱 Always learning and exploring new technologies in the **JavaScript/TypeScript** ecosystem
-- 💡 Passionate about creating intuitive user experiences with **Ionic** and **Flutter** for mobile development
-- ⚡ Fun fact: I enjoy building games and apps in my free time!
+- 💡 Passionate developer with **3+ years** of experience
+- 🛠️ Specializing in **Angular**, **C# .NET**, **Ionic**, **Flutter**
+- 📰 CMS: **WordPress**, **Ghost**
+- 📱 Mobile & Web enthusiast
 
 ---
 
@@ -33,16 +25,20 @@ I'm a passionate **Software Engineer** who loves crafting digital solutions that
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ### Backend
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Others
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -61,6 +57,7 @@ My corner of the internet showcasing my work
 - **Tech Stack:** TypeScript, Modern Web Technologies
 - **Features:** Portfolio, blog, contact form
 - [View Project →](https://github.com/SVidu96/svidu96.dev)
+- [Visit →](https://svidu96dev.vercel.app)
 
 </td>
 <td width="50%">
@@ -70,6 +67,7 @@ Interactive puzzle game with engaging gameplay
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Multiple puzzle types, responsive design
 - [View Project →](https://github.com/SVidu96/puzzle_master)
+- [View App →](https://play.google.com/store/apps/details?id=dev.svidu.puzzle_master)
 
 </td>
 </tr>
@@ -102,29 +100,18 @@ Modern train tracking app with ticket booking features
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SVidu96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVidu96&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVidu96&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 I'm always interested in connecting with fellow developers and discussing new opportunities!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://svidu96.dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svidu96)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svidu96+github@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SVidu96)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SVidu96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svidu96/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SVidu96)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10278264/supun-viduranga)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+17859794316)
 
 </div>
 
